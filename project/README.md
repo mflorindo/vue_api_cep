@@ -1,6 +1,6 @@
-# Projeto VUE - Consulta CEP e Lista de Endereços
+# Projeto VueJS - Consulta CEP e Lista de Endereços
 
-O objetivo deste projeto é através do VUE, usando axios, a consulta de endereço por CEP e também uma listagem dos endereços que satisfaçam a condição de estado, cidade e logradouro.
+O objetivo deste projeto é através do Vuejs, usando axios, a consulta de endereço por CEP e também uma listagem dos endereços que satisfaçam a condição de estado, cidade e logradouro.
 
 
 ## Instalação
